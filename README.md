@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello!
+
+I'm Maria Jose, Frontend Developer. I have made a bootcamp in Adalab where I have developed different languages: HTML5, CSS, SCSS, Bootstrap, Javascript and React.
+
+Nowadays, I keep on studying and developing in this field with Geekshub Academy, expanding my knowledge of Frontend such as: NodeJS, Webpack and Redux. 
+In addition to strengthen all the knowledge acquired previously. 
+
+I am actively looking for a job.
+You can visit my Linkedin to know more about me  😄. 
+
