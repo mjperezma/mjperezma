@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 Hello!
 
-I'm Maria Jose, Frontend Developer. I have made a bootcamp in Adalab where I have developed different languages: HTML5, CSS, SCSS, Bootstrap, Javascript and React.
+I am Maria Jose, Frontend Developer. I work with HTML5, CSS3, Sass, Bootstrap, git, npm, JavaScript, React and Redux.
 
-Nowadays, I keep on studying and developing in this field with Geekshub Academy, expanding my knowledge of Frontend such as: NodeJS, Webpack and Redux. 
-In addition to strengthen all the knowledge acquired previously. 
+Now I'm developing personal projects like https://github.com/mjperezma/ReactAPIGeeksHubs where you can see my last finished project.
 
-I am actively looking for a job.
-You can visit my Linkedin to know more about me  😄. 
+I am looking for job where I can learn even more!🔭
 
+soon For example, learning Angular or Vue.
+
+You can visit my Linkedin, https://www.linkedin.com/in/mariajoseperezmaeso/ , to know more about me 😄
