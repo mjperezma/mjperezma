@@ -22,6 +22,6 @@ Now I'm developing personal projects like https://github.com/mjperezma/ReactAPIG
 
 I am looking for job where I can learn even more!🔭
 
-soon For example, learning Angular or Vue.
+I'm always learning, now I'm practicing Angular or Vue 🔭.
 
 You can visit my Linkedin, https://www.linkedin.com/in/mariajoseperezmaeso/ , to know more about me 😄
