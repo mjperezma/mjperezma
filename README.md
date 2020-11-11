@@ -20,8 +20,6 @@ I am Maria Jose, Frontend Developer. I work with HTML5, CSS3, Sass, Bootstrap, g
 
 Now I'm developing personal projects like https://github.com/mjperezma/ReactAPIGeeksHubs where you can see my last finished project.
 
-I am looking for job where I can learn even more!🔭
-
 I'm always learning, now I'm practicing Angular or Vue 🔭.
 
 You can visit my Linkedin, https://www.linkedin.com/in/mariajoseperezmaeso/ , to know more about me 😄
