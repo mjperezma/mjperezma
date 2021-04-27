@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello!
 
-I am Maria Jose, Frontend Developer. I work with HTML5, CSS3, Sass, Bootstrap, git, npm, JavaScript, React and Redux.
+I am Maria Jose, Frontend Developer. I work with HTML5, CSS3, Sass, Bootstrap, git, npm, JavaScript, React and Angular.
 
 Now I'm developing personal projects like https://github.com/mjperezma/ReactAPIGeeksHubs where you can see my last finished project.
 
